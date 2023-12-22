@@ -48,7 +48,7 @@
  }
 
  .box {
-     background: #ededed;
+     background: #f1f1f1;
      border-radius: 25px;
      float: left;
      width: 100%;
@@ -57,7 +57,7 @@
  }
 
  .box2 {
-     background: #ededed;
+     background: #f1f1f1;
      border-radius: 25px;
      float: left;
      width: 100%;
@@ -88,6 +88,7 @@ margin-top: 8px;
  .img2 {
      height: 130px;
      margin-top: 5px;
+     margin-right: 5px;
  }
 
  .t6 {
@@ -166,7 +167,7 @@ margin-top: 8px;
          position: relative;
          width: 48%;
          margin-left: 2%;
-         height: 320px;
+         height: 300px;
      }
      .iner2{
          height: 50%;width: 100%;
