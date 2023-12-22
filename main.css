@@ -27,13 +27,13 @@
  }
 
  .t1 {
-     font-size: 32px;
+     font-size: 35px;
      font-weight: 400;
      padding-left: 10px;
  }
 
  .t2 {
-     font-size: 32px;
+     font-size: 35px;
      font-weight: 800;
      padding-bottom: 20px;
      padding-left: 10px;
@@ -49,20 +49,20 @@
 
  .box {
      background: #ededed;
-     border-radius: 30px;
+     border-radius: 25px;
      float: left;
      width: 100%;
      margin-bottom: 20px;
-     height: 150px;
+     height: 170px;
  }
 
  .box2 {
      background: #ededed;
-     border-radius: 30px;
+     border-radius: 25px;
      float: left;
      width: 100%;
      margin-bottom: 20px;
-     height: 150px;
+     height: 170px;
  }
 
  .iner2 {
@@ -82,35 +82,36 @@
  .img1 {
      height: 130px;
      padding-left: 4px;
-
+margin-top: 8px;
  }
 
  .img2 {
-     height: 120px;
+     height: 130px;
+     margin-top: 5px;
  }
 
  .t6 {
-     font-size: 19px;
+     font-size: 22px;
      color: #505050;
      font-weight: 700;
-     line-height: 27px;
-     padding-top: 45px;
+     line-height: 30px;
+     padding-top: 50px;
  }
 
  .t4 {
 
-     font-size: 16px;
+     font-size: 18px;
      color: #505050;
-     line-height: 22px;
-     padding-top: 37px;
+     line-height: 25px;
+     padding-top: 40px;
      font-weight: 400;
  }
 
  .t5 {
-     font-size: 19px;
+     font-size: 22px;
      color: #505050;
      font-weight: 700;
-     line-height: 22px;
+     line-height: 30px;
      padding-top: 3px;
  }
 
@@ -156,7 +157,7 @@
          float: left;
          width: 48%;
          margin-right: 2%;
-         height: 300px;
+         height: 320px;
          position: relative;
      }
 
@@ -165,7 +166,7 @@
          position: relative;
          width: 48%;
          margin-left: 2%;
-         height: 300px;
+         height: 320px;
      }
      .iner2{
          height: 50%;width: 100%;
